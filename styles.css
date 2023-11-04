@@ -1,9 +1,11 @@
 .ingredients {
     color: brown;
+    text-align: center;
 }
 
 .directions {
     color: brown;
+    text-align: center
 }
 
 h1 {
